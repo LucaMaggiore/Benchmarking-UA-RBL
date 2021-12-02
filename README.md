@@ -1,4 +1,4 @@
-# The legal (paper) book collections of the University of Antwerp library and Law Library Limburg: a comparison
+# The law (paper) book collections of the University of Antwerp library and Law Library Limburg: a benchmarking
 
 University of Antwerp library: https://www.uantwerpen.be/en/library
 
