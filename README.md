@@ -6,6 +6,6 @@ Law Library Limburg: https://bibliotheek.uhasselt.be/en/locations/law-library-li
 
 Jupyter Notebook
 
-The file serves as the basis for: 
+The file serves as the basis for: article in META journal
 
 
